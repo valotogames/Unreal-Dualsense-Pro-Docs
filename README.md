@@ -4,18 +4,18 @@
 Integrate all the features of Sony's DualSense™ and DualShock 4® controllers into your Unreal Engine project.
 <br />
 <br />
-<a href="https://github.com/rafaelvaloto/Unreal-Dualsense-Pro/issues">Report Bug</a>
+<a href="https://github.com/valotogames/Unreal-Dualsense-Pro-Docs/issues">Report Bug</a>
 ·
-<a href="https://github.com/rafaelvaloto/Unreal-Dualsense-Pro/issues">Suggest a Feature
+<a href="https://github.com/valotogames/Unreal-Dualsense-Pro-Docs/issues">Suggest a Feature
 </a>
 ·
-<a href="https://github.com/rafaelvaloto/Unreal-Dualsense-Pro/wiki">Documentation
+<a href="https://github.com/valotogames/Unreal-Dualsense-Pro-Docs/wiki">Documentation
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/rafaelvaloto/Unreal-Dualsense-Pro/releases">
-    <img src="https://img.shields.io/github/v/release/rafaelvaloto/Unreal-Dualsense-Pro?style=for-the-badge&logo=github" alt="Latest Release">
+<a href="https://github.com/valotogames/Unreal-Dualsense-Pro-Docs/releases">
+    <img src="https://img.shields.io/github/v/release/valotogames/Unreal-Dualsense-Pro-Docs?style=for-the-badge&logo=github" alt="Latest Release">
 </a>
 <img src="https://img.shields.io/badge/Unreal%20Engine-5.2+-blue?style=for-the-badge&logo=unrealengine" alt="Unreal Engine 5.x">
 <br/>
