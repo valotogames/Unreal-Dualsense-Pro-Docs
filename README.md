@@ -39,7 +39,7 @@ Integrate all the features of Sony's DualSense™ and DualShock 4® controllers 
 * ⚙️ **Force Feedback**: Native integration with Unreal Engine's Force Feedback system for standard motor vibration.
 * 🎮 **Multi-Controller Support**: Manage up to 4 controllers simultaneously.
 
-### 📚 For the full documentation, please see the **[Wiki](https://github.com/valotogames/Unreal-Dualsense-Pro/wiki)**.
+### 📚 For the full documentation, please see the **[Wiki](https://github.com/valotogames/Unreal-Dualsense-Pro-Docs/wiki)**.
 
 ---
 
