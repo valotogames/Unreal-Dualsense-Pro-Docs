@@ -5,8 +5,10 @@
 Integrate all the features of Sony's DualSense™ and DualShock 4® controllers into your Unreal Engine project.
 <br />
 <br />
-<a href="https://github.com/valotogames/Unreal-Dualsense-Pro-Docs/wiki">Documentation
-</a>
+<a href="https://github.com/valotogames/Unreal-Dualsense-Pro-Docs/issues">Report Bug</a> · 
+<a href="https://github.com/valotogames/Unreal-Dualsense-Pro-Docs/discussions">Suggest a Feature</a> · 
+<a href="https://github.com/valotogames/Unreal-Dualsense-Pro-Docs/wiki">Documentation</a>
+  
 </p>
 
 <p align="center">
@@ -19,6 +21,10 @@ Integrate all the features of Sony's DualSense™ and DualShock 4® controllers 
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Platform: macOS">
 <img src="https://img.shields.io/badge/PlayStation-0070D1?style=for-the-badge&logo=playstation&logoColor=white" alt="Platform: PlayStation">
 </p>
+
+Go to the official page on the Unreal Engine Marketplace (FAB): Middleware Gold Edition - FAB
+
+Access is not automated by FAB. You must fill out our Access Form with your GitHub username and the Order ID from your FAB purchase receipt. Once verified, you will receive an invitation to the private repository Unreal-Dualsense-Pro.
 
 ---
 
