@@ -22,11 +22,14 @@ Integrate all the features of Sony's DualSense™ and DualShock 4® controllers 
 <img src="https://img.shields.io/badge/PlayStation-0070D1?style=for-the-badge&logo=playstation&logoColor=white" alt="Platform: PlayStation">
 </p>
 
-Go to the official page on the Unreal Engine Marketplace (FAB): **[Middleware Gold Edition - FAB](https://www.fab.com/listings/d0836635-91a8-42cb-a78f-d34456cc042c)**
+Go to the official page on the Unreal Engine Marketplace (FAB): **[Middleware v3.1.0 - FAB](https://www.fab.com/listings/d0836635-91a8-42cb-a78f-d34456cc042c)**
 
 Access is not automated by FAB. You must fill out our [Access Form](https://forms.gle/vvCwZrnkHgMpshc48) with your GitHub username and the Order ID from your FAB purchase receipt. Once verified, you will receive an invitation to the private repository **Unreal-Dualsense-Pro**.
 
 ---
+
+> [!IMPORTANT]
+> [⚠ Breaking Changes: Core Module Rename (v3.1.0 & v2.7.0)](https://github.com/valotogames/Unreal-Dualsense-Pro-Docs/wiki/%E2%9A%A0-Breaking-Changes:-Core-Module-Rename-(v3.1.0-&-v2.7.0))
 
 ## ✨ Features
 * 🏗️ **Extensible Multi-Platform Architecture**: Its flexible design enables compilation across all Unreal Engine platforms. Supporting new hardware is as simple as implementing the connection interface.
