@@ -29,7 +29,7 @@ Access is not automated by FAB. You must fill out our [Access Form](https://form
 ---
 
 > [!IMPORTANT]
-> [⚠ Breaking Changes: Core Module Rename (v3.1.0 & v2.7.0)](https://github.com/valotogames/Unreal-Dualsense-Pro-Docs/wiki/%E2%9A%A0-Breaking-Changes:-Core-Module-Rename-(v3.1.0-&-v2.7.0))
+> [⚠ Breaking Changes: Core Module Rename (v3.1.0 & v2.7.0 & v1.10.1](https://github.com/valotogames/Unreal-Dualsense-Pro-Docs/wiki/%E2%9A%A0-Breaking-Changes:-Core-Module-Rename-(v3.1.0-&-v2.7.0))
 
 ## ✨ Features
 * 🏗️ **Extensible Multi-Platform Architecture**: Its flexible design enables compilation across all Unreal Engine platforms. Supporting new hardware is as simple as implementing the connection interface.
